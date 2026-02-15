@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Projet Chat-Excel
+apikey.txt
+DEBUG.log
+*.png
+*.xlsx
+*.csv
+temp_fig/
+assets/demo-*.gif
+
+# Environnement virtuel
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.claude/
